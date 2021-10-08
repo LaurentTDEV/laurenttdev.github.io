@@ -1,0 +1,117 @@
+p {
+    color: black;
+}
+nav ul {
+    list-style-type: none;
+    display: inline-flex;
+    flex-direction: row;
+    text-align: right;
+}
+ul {
+    list-style-type: none;
+    padding-inline-start: 0px;
+    margin-right: 155px;
+    margin-top: -300px;
+    margin-bottom: 260px;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    body {
+        color: black;
+        background-color:white;
+        background-image:url(images\Background.jpg);
+        margin:0;
+    }
+}
+nav a {
+    font-size: 1.3em;
+    color: #181818;
+    padding-right: 1px;
+    text-decoration: none;
+}
+nav a:hover {
+    color: #760001;
+    border-bottom: 3px solid #760001;
+}
+a.logo {
+    margin-top: 40px;
+}
+#name {
+    text-align: center;
+    font-size: 60px;
+}
+div.bloc_un {
+    text-align: center;
+}
+div.box {
+    text-align: center;
+    margin-top: 10px;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+#qui_sommes_nous {
+    margin-right: 100px;
+}
+p.live {
+    margin-left: 450px;
+    font-size: 22px;
+}
+iframe.liveyt {
+    margin-top: 50px;
+    margin-left: 360px;
+    border-top: 3px solid #000000;
+    border-bottom: 3px solid #000000;
+    border-left: 3px solid #000000;
+    border-right: 3px solid #000000;
+}
+h1.follow_us {
+    text-align: right;
+    margin-right: 510px;
+    margin-top: -375px;   
+    font-size: 30px;
+}
+ul.social_logo {
+    text-align: right;
+    margin-right: 565px;
+    margin-top: 35px;
+}
+div.container {
+    width: 1800px;
+    margin: 0 auto;
+}
+main.presentation {
+    text-align: center;
+    margin-bottom: 50px;
+}
+p.mail {
+    margin-top: 100px;
+    font-size: 22px;
+}
+img.pic {
+    border-top: 3px solid #000000;
+    border-bottom: 3px solid #000000;
+    border-left: 3px solid #000000;
+    border-right: 3px solid #000000;
+}
+img.pic2 {
+    border-top: 3px solid #000000;
+    border-bottom: 3px solid #000000;
+    border-left: 3px solid #000000;
+    border-right: 3px solid #000000;
+}
+img.logo2 {
+    margin-left: -8px;
+}   
+img.v_nyl {
+    margin-left: 735px;
+    margin-bottom: 20px;
+}
+p.text_pic {
+    font-size: 18px;
+}
+p.text_pic2 {
+    font-size: 20px;
+}
